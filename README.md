@@ -1,4 +1,4 @@
-# Tutorial - Banco de Dados com Python do jeito FÀCIL
+# Tutorial - Banco de Dados com Python do jeito FÁCIL
 Tutorial de como usar Banco de Dados com Python do Jeito Facil. Baseado no Video do Empowerdata | Python ([Clique aqui para assistir](https://youtube.com/watch?v=7xQhlf8qnsE))
 
 ## Definições
